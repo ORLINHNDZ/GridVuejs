@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #520",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/520.png",
+  "imageHash": "0b6c5d684b38720574bda37c0c7a0d786e6addb4839a00b0532e56fe4d8f3aaa",
+  "edition": 520,
+  "date": 1676243114005,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "GreyWhite"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "16"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Guardian"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

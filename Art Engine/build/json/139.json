@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #139",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/139.png",
+  "imageHash": "8c2e2eb942494bdbac7fe8a03e7400c19788a3e72185d982bb43f9e20c3e3436",
+  "edition": 139,
+  "date": 1676243046847,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Cofee"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "19"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Raincoat"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

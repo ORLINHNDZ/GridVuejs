@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #291",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/291.png",
+  "imageHash": "783b07f782f34ddc55a244bc358291ad688ed109604f00544494c87c5a178cd6",
+  "edition": 291,
+  "date": 1676243074334,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Cowy"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "HappyWink 2"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "KattyFlow"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

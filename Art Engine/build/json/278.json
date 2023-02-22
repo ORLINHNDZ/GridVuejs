@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #278",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/278.png",
+  "imageHash": "5ca5d9d77c40724f7351bc5670adc0bdeebbdd1a0c7e27100f6e199514688e9c",
+  "edition": 278,
+  "date": 1676243072088,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "19"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "ZeldyPurple"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

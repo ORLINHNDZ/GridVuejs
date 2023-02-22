@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #50",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/50.png",
+  "imageHash": "7883245bd61a1b05e365f7097a99967860e39f37b6d9a9f40b6595aaf0bd4098",
+  "edition": 50,
+  "date": 1676243029742,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Siames"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Exotic27"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "LaGatta"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

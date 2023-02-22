@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #112",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/112.png",
+  "imageHash": "e0c72c57c76b83d360a68f00cb98a4cd972803c19d510d80ad91bcb75166c632",
+  "edition": 112,
+  "date": 1676243041593,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Sable Brown"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "ZeldyRed"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

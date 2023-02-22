@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #487",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/487.png",
+  "imageHash": "2df896d84c210920cd3e929bd4c2e4ae44e127056bc8978b487c8080c82d8940",
+  "edition": 487,
+  "date": 1676243108346,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Sable Blu"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "HeraldFire"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #251",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/251.png",
+  "imageHash": "ff0fce65782a9c978d6a3a334756df7cce40415a4fd8ea747bcc6d2f969c0524",
+  "edition": 251,
+  "date": 1676243067467,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Siames"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "10"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Ninja 7"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

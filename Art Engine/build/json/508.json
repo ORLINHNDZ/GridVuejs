@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #508",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/508.png",
+  "imageHash": "16f2887f774bd16e8b1a41aedec218d389a78b05f4554f35f95c63e355c45f36",
+  "edition": 508,
+  "date": 1676243111948,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Siames"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "19"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "ZeldyPurple"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

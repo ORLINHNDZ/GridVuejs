@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #142",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/142.png",
+  "imageHash": "7e26a5b6dc184d921a7fe2b3f1653e2123cc0b295e3056a82b9c3ca60e96a1d4",
+  "edition": 142,
+  "date": 1676243047416,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "09"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "HeraldFire"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

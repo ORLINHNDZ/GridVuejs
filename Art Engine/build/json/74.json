@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #74",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/74.png",
+  "imageHash": "35c93e042095672d3af41ffb5c837de0d176c21368b3002727a5287a3cba000e",
+  "edition": 74,
+  "date": 1676243034530,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Khaki"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "WildMood1"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "ZombieLaser"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

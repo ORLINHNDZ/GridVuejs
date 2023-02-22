@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #187",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/187.png",
+  "imageHash": "34bdacf66f7753020606c445b6374a1a60784f12c1cd4d24ada5a696d3e08d5b",
+  "edition": 187,
+  "date": 1676243055899,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Cofee"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Exotic27"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "ZeldyBlue"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

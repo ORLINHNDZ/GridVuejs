@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #545",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/545.png",
+  "imageHash": "e575ba34c26dc7c944804aa6297daf402de5db61bb1b366c56c74abca61f6956",
+  "edition": 545,
+  "date": 1676243118393,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Cowy"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "WildMood3"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Indigena"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

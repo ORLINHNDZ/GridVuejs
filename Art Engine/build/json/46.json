@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #46",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/46.png",
+  "imageHash": "a394f818373a32470c3deda1deaf3f23db3f80b5c0dab3e9046075fce3921dc1",
+  "edition": 46,
+  "date": 1676243028976,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "09"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "ZeldyGreen"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

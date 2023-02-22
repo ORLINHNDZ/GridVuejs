@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #68",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/68.png",
+  "imageHash": "349379d9991e5ee56337fc064ae6320f60a23f805c19465ce25e7b87b9132980",
+  "edition": 68,
+  "date": 1676243033431,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "09"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "PharaoQuartz"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

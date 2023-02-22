@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #123",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/123.png",
+  "imageHash": "41eab0736744bc3ce36fe0065c84385214a56ce96078baf2b6c7e5e2b03a4591",
+  "edition": 123,
+  "date": 1676243043571,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Exotic27"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "HeraldFire"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

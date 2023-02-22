@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #44",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/44.png",
+  "imageHash": "abdb550f85b55a0b6bf4b01465b8f90d2ebcd5862ce6e1c551dd66288a76590c",
+  "edition": 44,
+  "date": 1676243028614,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Original"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "WildMood"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Charity"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #410",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/410.png",
+  "imageHash": "080b6570f6791d3452c0fba1078ef9e6f2ae32c1b2bbb5ed895d8343838de1ef",
+  "edition": 410,
+  "date": 1676243095267,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "WildMood1"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Charity"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

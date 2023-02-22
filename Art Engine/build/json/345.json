@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #345",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/345.png",
+  "imageHash": "17ec0ca478d9f850369429e06a5dc109d96c3d81a2780f5c3bb1b2739ad49f71",
+  "edition": 345,
+  "date": 1676243083789,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "WildMood2"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "NyanCat"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

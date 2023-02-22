@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #38",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/38.png",
+  "imageHash": "3bffdd1726f26ce9a7fc7139413fa45dfab431c7a5139216229d4dad8af8b1d1",
+  "edition": 38,
+  "date": 1676243027548,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Khaki"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Exotic27"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Box 5"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

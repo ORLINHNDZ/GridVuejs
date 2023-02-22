@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #501",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/501.png",
+  "imageHash": "e60c7f1253d83753b98bbc422c1c10b8217c9212f8141e822ca8765a435b6215",
+  "edition": 501,
+  "date": 1676243110738,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Siames"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "11"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "ToTheMoon"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

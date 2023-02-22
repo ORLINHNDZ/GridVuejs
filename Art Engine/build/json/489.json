@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #489",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/489.png",
+  "imageHash": "75046a1d16e858b8dd384ca93c0c3193ffd2365c4a1af715f4f759c34fb072f2",
+  "edition": 489,
+  "date": 1676243108700,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Khaki"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "11"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Usa"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

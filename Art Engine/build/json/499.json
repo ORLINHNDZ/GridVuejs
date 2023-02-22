@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #499",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/499.png",
+  "imageHash": "8b400e34ac3927a9c5719435a15c4cabc6672a5b94084415197089a7758a04ce",
+  "edition": 499,
+  "date": 1676243110392,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Stained"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "WildMood3"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Usa"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

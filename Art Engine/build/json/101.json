@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #101",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/101.png",
+  "imageHash": "d8a55d56b7463b947c4d4804bf0c7721c903a9b7e77980f4ff228f1607abb890",
+  "edition": 101,
+  "date": 1676243039472,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Khaki"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Exotic6"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Argentina"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

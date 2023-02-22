@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #119",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/119.png",
+  "imageHash": "a5b29b7821b222cbbeaa03336b89545c9758c23d7bf3cad7fb9592519a4660d1",
+  "edition": 119,
+  "date": 1676243042825,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Cowy"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Exotic27"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "LaserCyborg"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

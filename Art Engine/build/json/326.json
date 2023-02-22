@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #326",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/326.png",
+  "imageHash": "b570f9048f4ce94ebeb09b6bead0276c23c399d8b77282579847f1dbd4b9f575",
+  "edition": 326,
+  "date": 1676243080457,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "13"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "PharaoRubi"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

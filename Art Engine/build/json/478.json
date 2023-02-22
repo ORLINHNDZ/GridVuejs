@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #478",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/478.png",
+  "imageHash": "d5d9208182df977ee129b080aca08a76e899307d4dd75106ccb95745d0bb822b",
+  "edition": 478,
+  "date": 1676243106779,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Blacky"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "18"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Solanabag"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

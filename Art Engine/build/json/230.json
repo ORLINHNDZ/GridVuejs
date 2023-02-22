@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #230",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/230.png",
+  "imageHash": "78afa5e101490053870f7b0fef749d847981b8f92b4a994f12b70da986f28b00",
+  "edition": 230,
+  "date": 1676243063667,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Siames"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Sable Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "KattyFlow"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #155",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/155.png",
+  "imageHash": "5d0eb5050227a526ee5dc1beb555d707f66daa5bfb9f127442a7abf598bec070",
+  "edition": 155,
+  "date": 1676243049833,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Cowy"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "20"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "ZeldyPurple"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

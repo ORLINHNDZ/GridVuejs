@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #490",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/490.png",
+  "imageHash": "88c1bec48ff9eafd85edbf2e06e4177c2ba3146ea3fea94b74b1c4969c124678",
+  "edition": 490,
+  "date": 1676243108872,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "GreyWhite"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Exotic27"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Box 8"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

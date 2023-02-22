@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #506",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/506.png",
+  "imageHash": "c07fe81ba83a7def71d4521d563bfd36bcc22e7a227e8a65743758b2744e7a5c",
+  "edition": 506,
+  "date": 1676243111600,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Cowy"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "WildMood"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brasil"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

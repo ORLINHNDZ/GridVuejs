@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #303",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/303.png",
+  "imageHash": "d4a6d083cc220ad16a288fbb5464ff60c1711e283df955e3b603114adc7a60bf",
+  "edition": 303,
+  "date": 1676243076428,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "OkBrown"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Ninja 5"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

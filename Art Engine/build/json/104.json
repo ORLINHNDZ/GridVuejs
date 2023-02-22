@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #104",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/104.png",
+  "imageHash": "10856045a3f70080c6b7373619decb4da9b99daa50cfb461f662e68d07b680c1",
+  "edition": 104,
+  "date": 1676243040120,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "GreyWhite"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "WildMood"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "KatyPerry"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

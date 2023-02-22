@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #467",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/467.png",
+  "imageHash": "94a569736fe511a565560502b9d3fd50c6333579f57fc4d60ec137140c6eb9d8",
+  "edition": 467,
+  "date": 1676243104895,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "01"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Ghost"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #15",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/15.png",
+  "imageHash": "5a8f5346c41c670e0703de691577ecfd2d4effad2dbc3c057db0e644229b061e",
+  "edition": 15,
+  "date": 1676243023284,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "GreyWhite"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "13"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "LaGatta"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

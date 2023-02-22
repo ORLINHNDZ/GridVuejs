@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #398",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/398.png",
+  "imageHash": "4bf53aa6103bc29a633261361a64bd382f169f4f6ad757386851005b18406a6d",
+  "edition": 398,
+  "date": 1676243093327,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Exotic27"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "HandMade"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

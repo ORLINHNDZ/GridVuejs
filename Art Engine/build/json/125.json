@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #125",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/125.png",
+  "imageHash": "4937ec80f5f310e66fb5b646f1acd3d150aad76a5f7398952d190f4e76228814",
+  "edition": 125,
+  "date": 1676243043943,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "WildMood"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Poncho"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

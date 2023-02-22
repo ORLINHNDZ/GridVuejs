@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #460",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/460.png",
+  "imageHash": "11ded64eba09c3b9c2e13c5f0a64eeb6e062da0e57a7d45f44a407d7213b9b62",
+  "edition": 460,
+  "date": 1676243103747,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Cofee"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "07"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Cyborg"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

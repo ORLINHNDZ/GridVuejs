@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #401",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/401.png",
+  "imageHash": "202a563895e5bf5e7b071af5d41411924bcb4f02c8c492843b5d3427ed5bb31e",
+  "edition": 401,
+  "date": 1676243093801,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Exotic27"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Box 5"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

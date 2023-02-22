@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #18",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/18.png",
+  "imageHash": "95e2ff238d5db1fe14b9c3c8c947b747687cd1494c8dcb2c081d65df8698aabe",
+  "edition": 18,
+  "date": 1676243023808,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Exotic27"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Argentina"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

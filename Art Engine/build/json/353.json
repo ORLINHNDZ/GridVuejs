@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #353",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/353.png",
+  "imageHash": "f28805a0c894cccd65fa637978937d105a561eed5d8fb96bb4fcfcb22ea8f021",
+  "edition": 353,
+  "date": 1676243085274,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "GreyWhite"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Exotic27"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "LaserCyborg"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

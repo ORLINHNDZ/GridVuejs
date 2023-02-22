@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #100",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/100.png",
+  "imageHash": "b764824e26bbccaba222f1c676cfbe9ff530f2a8a06b591ce64fbd11bb6203b1",
+  "edition": 100,
+  "date": 1676243039303,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Stained"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "17"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Ninja 5"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

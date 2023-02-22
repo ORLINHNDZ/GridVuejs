@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #245",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/245.png",
+  "imageHash": "d99453cf7d58579150bf0deb23cb8bed3825125819f68d55ffc531a0d32f5d8b",
+  "edition": 245,
+  "date": 1676243066458,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Exotic6"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "ZeldyBlue"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

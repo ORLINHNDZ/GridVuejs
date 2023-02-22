@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #193",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/193.png",
+  "imageHash": "ed8778e2854ed27352c9929dd394fa9b0cee7f507994ecb68970235c758bf723",
+  "edition": 193,
+  "date": 1676243056981,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "GreyWhite"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "WildMood1"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "LaGatta"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

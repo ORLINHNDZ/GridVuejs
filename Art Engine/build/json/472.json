@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #472",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/472.png",
+  "imageHash": "3580cf4e6e7c40be4aa25945e1277b6359818d7af0efa611b7dd907e362754b7",
+  "edition": 472,
+  "date": 1676243105759,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Cowy"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "19"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "PharaoRubi"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

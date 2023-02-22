@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #222",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/222.png",
+  "imageHash": "b35e1ca47f3121923d4e99f4ade92f7fe3aa65d5b0385f679ea28827265c88a2",
+  "edition": 222,
+  "date": 1676243062288,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Khaki"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "WildMood3"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Germany"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

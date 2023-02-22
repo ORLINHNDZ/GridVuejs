@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #358",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/358.png",
+  "imageHash": "f9dbb0c01a5c20364c8f0478f5df421d604dcc5193af664372ee5fdec0c8e227",
+  "edition": 358,
+  "date": 1676243086213,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Blacky"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Sable Brown"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Indigena"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #446",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/446.png",
+  "imageHash": "bd8f9d32fb3768fc14269e653221d3cda165c3dc33ac1e7b3bff9e1dc95ffefd",
+  "edition": 446,
+  "date": 1676243101344,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Cofee"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "WildMood1"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Raincoat"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #228",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/228.png",
+  "imageHash": "65405ffbf1c63ffc60e3bfde3b1b65a9f8be61180cc9b993c1438c8e68dcb79f",
+  "edition": 228,
+  "date": 1676243063307,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "WildMood1"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Ninja 1"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

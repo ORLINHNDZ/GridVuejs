@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #361",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/361.png",
+  "imageHash": "418478dc3391d79099684ec162dcce419bc1fcdbb06c61d7a8a7791bb25f1e05",
+  "edition": 361,
+  "date": 1676243086745,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Stained"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "WildMood3"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "KattyFlow"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

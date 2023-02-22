@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #225",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/225.png",
+  "imageHash": "af4f277f2cb57874729d24ef17a65333e84c17a32411a192b1cdf261a4ad0501",
+  "edition": 225,
+  "date": 1676243062828,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Blacky"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Exotic27"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "KattyFlow"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

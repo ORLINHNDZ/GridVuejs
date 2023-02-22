@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #6",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/6.png",
+  "imageHash": "efb3aac5999f2ece277b9b5ff902a68458c4e3ac69e6adfd9728c060895435c9",
+  "edition": 6,
+  "date": 1676243021546,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Exotic6"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Guardian"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #277",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/277.png",
+  "imageHash": "f89384b9c2e5694c23fb76a3908e50de67c14d1abb7e64810031949116a2c0ce",
+  "edition": 277,
+  "date": 1676243071954,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "GreyWhite"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "WildMood"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "PharaoRubi"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

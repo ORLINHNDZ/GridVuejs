@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #135",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/135.png",
+  "imageHash": "8f89bf57a3fcc7d29dff37e45bc64b01eb4eef37530ed95dfe6b1fc3df9b6d2c",
+  "edition": 135,
+  "date": 1676243046021,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Siames"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "18"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "LaGatta"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

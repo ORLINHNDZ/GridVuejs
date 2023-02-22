@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #9",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/9.png",
+  "imageHash": "c6ecbab15003d2960c33550b8e0943a60933862dd6bd79c38118469905153200",
+  "edition": 9,
+  "date": 1676243022128,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Siames"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Exotic6"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Argentina"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

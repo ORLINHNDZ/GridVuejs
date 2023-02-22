@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #70",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/70.png",
+  "imageHash": "247aa12da1b80bf9f436e7887a2916886cda7be07c2d299d46c50b186d77cd7e",
+  "edition": 70,
+  "date": 1676243033827,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Khaki"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "12"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Argentina"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

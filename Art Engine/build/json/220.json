@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #220",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/220.png",
+  "imageHash": "fcbe4583266002f8ee718e0816984d475089d469a280777eaa53e4283130d866",
+  "edition": 220,
+  "date": 1676243061930,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Sable Brown"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "ZombieLaser"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

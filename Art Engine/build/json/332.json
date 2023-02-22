@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #332",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/332.png",
+  "imageHash": "273d1e8d6341a708c8ed0ff4ea531f1d2b09c1e739f8857e3f7a29fd7311c2be",
+  "edition": 332,
+  "date": 1676243081555,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Cofee"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "16"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "KatyPerry"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

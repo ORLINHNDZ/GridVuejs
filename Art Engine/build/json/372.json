@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #372",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/372.png",
+  "imageHash": "0ae2292643a74b3ca690a155f64fd615de40347700b92594616e54549fbaa490",
+  "edition": 372,
+  "date": 1676243088926,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Stained"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "TonguiWink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Guardian"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

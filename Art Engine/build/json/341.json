@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #341",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/341.png",
+  "imageHash": "61cb8b4cfe33346ca12105cf04931dbbafcab398f86c3d221c6fa756b707161e",
+  "edition": 341,
+  "date": 1676243083117,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Cowy"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "WildMood"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Raincoat"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

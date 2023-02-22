@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #289",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/289.png",
+  "imageHash": "438a218f2b3f2145dabfeb3903fee59cb9bc35ce30b80a1144d7c28965fc709e",
+  "edition": 289,
+  "date": 1676243073992,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "01"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Solanabag"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

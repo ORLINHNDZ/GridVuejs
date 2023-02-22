@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #145",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/145.png",
+  "imageHash": "ee04fb706623d6e5a8aabce242b5cc19084e5942d04666a1f9f6770708345c5d",
+  "edition": 145,
+  "date": 1676243047978,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "GreyWhite"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "18"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Box 8"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

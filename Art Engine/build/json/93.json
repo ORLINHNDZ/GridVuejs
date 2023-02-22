@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #93",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/93.png",
+  "imageHash": "c5fe96ee313fb5e3f5d5b596a841f74926a7226e435d5cf6b8d99a00e5917b7c",
+  "edition": 93,
+  "date": 1676243038065,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Siames"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "WildMood2"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Indigena"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

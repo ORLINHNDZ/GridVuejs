@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #392",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/392.png",
+  "imageHash": "069230fbc30df40b5a6fdbb39915a0ee9be501f168fc8d66e5c1cca3a24c3b3a",
+  "edition": 392,
+  "date": 1676243092342,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Blacky"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Exotic26"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Necklace"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

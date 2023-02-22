@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #387",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/387.png",
+  "imageHash": "04c4910f1fa4a497ea2ebdb2cbb4db5d168e5988e55c590a9f482a6d2b59b16b",
+  "edition": 387,
+  "date": 1676243091517,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Siames"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "WildMood1"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Germany"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

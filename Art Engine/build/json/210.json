@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #210",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/210.png",
+  "imageHash": "33f8de8cb92445f55ac493b1df859e77bc30c10c56c0a398691d8a0cf5dea5e1",
+  "edition": 210,
+  "date": 1676243060078,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "GreyWhite"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Exotic27"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "PharaoQuartz"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

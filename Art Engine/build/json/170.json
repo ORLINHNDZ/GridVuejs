@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #170",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/170.png",
+  "imageHash": "ab72809fdccc795e4a08f9c1b1702d3bdc26fd4004ca1cc297db50f00eb6c984",
+  "edition": 170,
+  "date": 1676243052546,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Cofee"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "13"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "ZeldyGreen"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

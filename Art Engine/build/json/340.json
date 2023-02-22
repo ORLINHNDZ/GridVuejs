@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #340",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/340.png",
+  "imageHash": "2634576ce08bcee740c189544a1f6f756823545a657be4d7df039ef021d9668a",
+  "edition": 340,
+  "date": 1676243082942,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Cowy"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "07"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "ToTheMoon"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

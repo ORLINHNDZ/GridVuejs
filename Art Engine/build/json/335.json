@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #335",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/335.png",
+  "imageHash": "0945009ae3e057919cffd75660f7bacdbdbe4046bff8c0cda7301cccf267c4eb",
+  "edition": 335,
+  "date": 1676243082065,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Exotic27"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "KatyPerry"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

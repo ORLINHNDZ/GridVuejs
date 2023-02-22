@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #131",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/131.png",
+  "imageHash": "28c3c62124d0a99a03a87ece6e35706d402c78e4a98a750b92f06b813fe83a85",
+  "edition": 131,
+  "date": 1676243045154,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Original"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "19"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "ThurBones"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

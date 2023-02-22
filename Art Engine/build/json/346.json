@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #346",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/346.png",
+  "imageHash": "77f0e90dada78dcb40ae0d741d241078144e57f275a7d6fd78930cfab9af9b12",
+  "edition": 346,
+  "date": 1676243083962,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Blacky"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Exotic26"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Box 6"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

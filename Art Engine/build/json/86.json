@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #86",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/86.png",
+  "imageHash": "0a282eb6cb17550e1741196e293305f1f1cf2ed883f34d709c1ac0882378a81e",
+  "edition": 86,
+  "date": 1676243036756,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Blacky"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Sable Brown"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "NyanCat"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

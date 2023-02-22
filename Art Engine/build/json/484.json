@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #484",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/484.png",
+  "imageHash": "7490e98773377039dfcac46738b3bfbfaa506561bb006125f69f6008c50f88ad",
+  "edition": 484,
+  "date": 1676243107827,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Blacky"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "HappyWink 2"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Cyborg"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

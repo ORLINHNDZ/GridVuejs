@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #149",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/149.png",
+  "imageHash": "c468fe18943d36926b604b1632080777018d2c9b165fece01da2b97ccb0c39e7",
+  "edition": 149,
+  "date": 1676243048702,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Exotic27"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "HandMade"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #240",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/240.png",
+  "imageHash": "475645b920194a519f16e45e80479926732d125fd325da6d88ae9e6aba2a6063",
+  "edition": 240,
+  "date": 1676243065609,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Khaki"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "TonguiWink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "PharaoQuartz"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

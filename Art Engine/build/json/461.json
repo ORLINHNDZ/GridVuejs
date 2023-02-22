@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #461",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/461.png",
+  "imageHash": "7720823b681bea91acd9bfefdcbc485a180f0d5493089482d8876200b8a17515",
+  "edition": 461,
+  "date": 1676243103917,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Blacky"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Exotic6"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Argentina"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

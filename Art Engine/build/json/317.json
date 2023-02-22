@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #317",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/317.png",
+  "imageHash": "2e2b3d114eb8780feb7133dc25fa046ed92806baab44ad460b420429b3532870",
+  "edition": 317,
+  "date": 1676243078932,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Sable Brown"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "ZeldyPurple"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

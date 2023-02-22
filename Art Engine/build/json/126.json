@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #126",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/126.png",
+  "imageHash": "3b403cfbf478fa1c852618fd3025c5dc0a109676243e490bd74a1eadce2bcc63",
+  "edition": 126,
+  "date": 1676243044138,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "GreyWhite"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "18"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "PharaoEsmerald"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

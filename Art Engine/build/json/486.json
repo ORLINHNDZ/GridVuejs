@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #486",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/486.png",
+  "imageHash": "2f70ff925a7f42ac62d2aee5cfe38eebfc148bb24c26ebc5373a26fab2f2b62e",
+  "edition": 486,
+  "date": 1676243108164,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Original"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Exotic27"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Ninja 7"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

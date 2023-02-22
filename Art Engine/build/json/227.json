@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #227",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/227.png",
+  "imageHash": "2d573e1ddbcf9074a92c7412c03ef21c5d6f4e033a42373d5cb62cf4658f6976",
+  "edition": 227,
+  "date": 1676243063175,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Cofee"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Sable Blu"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Argentina"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

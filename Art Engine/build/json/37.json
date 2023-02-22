@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #37",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/37.png",
+  "imageHash": "9d07db10bef0a88ae00908434e3e918988ee59e832a1ab4b003f38aa6cfa81aa",
+  "edition": 37,
+  "date": 1676243027370,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Exotic6"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "NyanCat"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

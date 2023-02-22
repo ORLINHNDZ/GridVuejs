@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #376",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/376.png",
+  "imageHash": "3c193f796bfd2d3f96ecf4a1057c48f000e7412987d6308c103b773f659d2594",
+  "edition": 376,
+  "date": 1676243089629,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Blacky"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "HappyWink 2"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "ZombieLaser"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

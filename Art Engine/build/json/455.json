@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #455",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/455.png",
+  "imageHash": "959faace0e3d98bf4c811e25fc1ec5f46de667f955293453a336c07e7d933f0a",
+  "edition": 455,
+  "date": 1676243102894,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "WildMood"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Solanabag"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

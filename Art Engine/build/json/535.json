@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #535",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/535.png",
+  "imageHash": "005895dba9cafed164f98523c6873db319874067726fafcdd9a8e7b3b36d5c4b",
+  "edition": 535,
+  "date": 1676243116528,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Cowy"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "01"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "PharaoEsmerald"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

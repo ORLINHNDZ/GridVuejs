@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #128",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/128.png",
+  "imageHash": "e3455f4debb98f795923cd0174b7f2539add232714320cba18607b66596b685a",
+  "edition": 128,
+  "date": 1676243044535,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Cofee"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Exotic27"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Eng"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

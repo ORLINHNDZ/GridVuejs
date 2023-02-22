@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #96",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/96.png",
+  "imageHash": "76802aa7519f8f758151a66b13e6625398d1bbfe48877aa9f503691b9900f55e",
+  "edition": 96,
+  "date": 1676243038587,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "OkBrown"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "HeraldFire"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

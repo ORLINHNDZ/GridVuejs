@@ -1,0 +1,23 @@
+{
+  "name": "Series 2 #179",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/179.png",
+  "imageHash": "4cf1158cc1a59cbd37f8f819f3b346462b5d033595fd3ff6c4e337013a17c1ec",
+  "edition": 179,
+  "date": 1676243054152,
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Stained"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "15"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Usa"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}
